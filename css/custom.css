@@ -37,10 +37,12 @@ ul {
     list-style: none;
 }
 #hero {
-    background-image:url(../img/hero.jpg);
+    background-image:url(../img/hero-3.jpg);
     height: 350px;
+    background-position:10%;
     background-size: cover;
 }
+
 #encabezado {
     margin: 30px 0;
 }
@@ -101,9 +103,9 @@ ul {
 .barra {
     padding: 20px 0;
     background: #741d51; /* Old browsers */
-    background: -moz-linear-gradient(left, #741d51 0%, #e44e52 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(left, #741d51 0%,#e44e52 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to right, #741d51 0%,#e44e52 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(left, #530d8d 0%, #511d96 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #741d51 0%,#8826e4 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #741d51 0%,#14a0e0 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#741d51', endColorstr='#e44e52',GradientType=1 ); /* IE6-9 */
 }
 
